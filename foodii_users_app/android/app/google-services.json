@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "512603385853",
+    "project_id": "foodisellerapp",
+    "storage_bucket": "foodisellerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512603385853:android:4d5a0d23630c53eb44b394",
+        "android_client_info": {
+          "package_name": "com.rahna.foodii_sellers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRxnzlNdI8OYCR-G1NZ1Pp-jAO-D5pO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512603385853:android:99c6c9303b082ef744b394",
+        "android_client_info": {
+          "package_name": "com.rahnam.foodii_riders_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRxnzlNdI8OYCR-G1NZ1Pp-jAO-D5pO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512603385853:android:b440d0643c285d7044b394",
+        "android_client_info": {
+          "package_name": "com.rahnam.foodii_sellers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRxnzlNdI8OYCR-G1NZ1Pp-jAO-D5pO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512603385853:android:af90dcf7c5e80e1144b394",
+        "android_client_info": {
+          "package_name": "com.rahnam.foodii_users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRRxnzlNdI8OYCR-G1NZ1Pp-jAO-D5pO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
